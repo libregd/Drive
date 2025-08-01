@@ -1,7 +1,7 @@
 /**
- * #WCCChallenge Topic: "Drive" Created by RaphaĆ«l de Courville (https://openprocessing.org/curation/78544)
+ * #WCCChallenge Topic: "Drive" Created by Raphaël de Courville (https://openprocessing.org/curation/78544)
  * 
- * inspred by :
+ * inspired by :
  * - [Swirls by Simon](https://openprocessing.org/sketch/1965018) : function  drawSwirls() ; CC-BY-NC-SA
  * - [The Piano Recital by Corey Huang](https://openprocessing.org/sketch/1174589): piano part ; CC-BY-SA
  * 
@@ -15,7 +15,7 @@ let img; // image object
 let t = 0;
 let angle = 0;
 function preload() {
-  img = loadImage('https://media.tenor.com/JPOhHuokpdYAAAAi/pop-cat.gif'); // img url
+  img = loadImage('./pop-cat.gif'); // img url
 }
 
 
